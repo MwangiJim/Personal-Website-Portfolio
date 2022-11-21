@@ -15,5 +15,5 @@ This is a personal portfolio page of who i am and what my aspirations are as a d
 
 ## Setup
 ```
-$http://personal-website-portfolio.vercel.app/
+http://personal-website-portfolio.vercel.app/
 ```
