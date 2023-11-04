@@ -1,4 +1,6 @@
 # Personal-Website-Portfolio
+![Static Badge](https://img.shields.io/badge/deploy-success-green)
+![Static Badge](https://img.shields.io/badge/build-passing-blue)
 This is my Personal Website.Feel free to check it out in my Profile @ http://personal-website-portfolio.vercel.app/
 # Table of Contents
 * [Description]
